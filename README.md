@@ -13,8 +13,8 @@
 
 ## About Me
 
-I’m a **Full Stack Developer** specializing in **scalable web applications** with **AI-powered features**.  
-I build complete products — from **clean UI** to **robust backend systems** and **intelligent AI integrations**.
+I’m a **Full Stack Developer** focused on building **scalable, production-ready web applications** with **AI-powered features**.  
+I work across the full stack — from **clean frontend UI** to **robust backend systems** and **intelligent AI integrations**.
 
 - 🔭 Working on **Bookmark App**
 - 🌱 Learning **Advanced Next.js & Backend Architecture**
@@ -26,42 +26,55 @@ I build complete products — from **clean UI** to **robust backend systems** an
 
 ## Core Skills
 
-### Frontend Development
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+
 - React.js & Next.js (SSR, SSG, App Router)
-- JavaScript (ES6+), HTML5, CSS3
-- Tailwind CSS & Responsive UI
-- Component-driven architecture
+- Responsive UI & component-driven architecture
+- Modern CSS with Tailwind
 
-### Backend Development
+---
+
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 - Node.js & Express.js
-- RESTful APIs & MVC architecture
-- Authentication & Authorization (JWT)
-- Secure & scalable server logic
+- RESTful API development
+- Authentication & authorization (JWT)
+- Secure and scalable server logic
 
-### Databases
+---
+
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F59E0B&lines=Databases" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
 - MongoDB & Mongoose
 - Schema design & indexing
 - Query optimization
-- Basic SQL (MySQL / PostgreSQL)
+- Basic SQL databases
 
-### AI Integration 🤖
-- AI-powered **Chatbot Development**
-- Integration with **LLM APIs**
-- Prompt engineering for production apps
-- AI features inside **Next.js & MERN applications**
-- Real-time chat, assistants & automation tools
+---
 
-### Full Stack Expertise
-- MERN Stack Applications
-- Next.js Full Stack Projects
-- API & AI integration
-- Production-ready architecture
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9333EA&lines=AI+Integration" />
 
-### Tools & Deployment
+🤖 Chatbot Development  
+🧠 LLM API Integration  
+⚡ Real-time AI Assistants  
+📝 Prompt engineering for production apps  
+🔗 AI inside MERN & Next.js applications  
+
+---
+
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=10B981&lines=Tools+%26+Deployment" />
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" />
+
 - Git & GitHub
-- Postman
-- Vercel / Netlify
-- Environment configuration
+- API testing with Postman
+- Deployment & environment configuration
 
 ---
 
