@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · MERN Stack · Next.js · AI Integration</h3>
 
 <p align="center">
-  <a href="mailto:sriyanshdon2005@gmail.com">
+  <a href="muhammad.ahmad.p171@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/MERN%20Stack-Expert-16a34a?style=flat" />
