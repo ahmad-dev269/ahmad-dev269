@@ -28,33 +28,33 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="30" />
 
-- React.js & Next.js (SSR, SSG, App Router)
-- Responsive UI & component-driven architecture
-- Modern CSS with Tailwind
+- ⚛️ **React.js & Next.js** (SSR, SSG, App Router)  
+- 🎨 **Responsive UI** & component-driven architecture  
+- 💅 **Modern CSS with Tailwind**
 
 ---
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
 
-- Node.js & Express.js
-- RESTful API development
-- Authentication & authorization (JWT)
-- Secure and scalable server logic
+- 🔧 **Node.js & Express.js**  
+- 🌐 **RESTful API development**  
+- 🔒 **Authentication & authorization** (JWT)  
+- ⚡ **Secure & scalable server logic**
 
 ---
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F59E0B&lines=Databases" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="30" />
 
-- MongoDB & Mongoose
-- Schema design & indexing
-- Query optimization
-- Basic SQL databases
+- 🗄️ **MongoDB & Mongoose**  
+- 🏗️ **Schema design & indexing**  
+- ⚡ **Query optimization**  
+- 🛠️ **Basic SQL databases**
 
 ---
 
@@ -62,22 +62,21 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 <img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="30" />
 
-- 🤖 **Chatbot Development** ![chatbot](https://img.shields.io/badge/Chatbot-OpenAI-9333EA?style=flat&logo=openai&logoColor=white)  
-- 🧠 **LLM API Integration** ![llm](https://img.shields.io/badge/LLM-GPT-FF6B6B?style=flat&logo=openai&logoColor=white)  
-- ⚡ **Real-time AI Assistants** ![assistant](https://img.shields.io/badge/Assistant-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-- 📝 **Prompt Engineering for Production Apps** ![prompt](https://img.shields.io/badge/Prompt-Engineering-F59E0B?style=flat&logo=python&logoColor=white)  
-- 🔗 **AI inside MERN & Next.js applications** ![mern](https://img.shields.io/badge/MERN-Stack-16a34a?style=flat&logo=react&logoColor=white)
-
+- 🤖 **Chatbot Development**  
+- 🧠 **LLM API Integration**  
+- ⚡ **Real-time AI Assistants**  
+- 📝 **Prompt Engineering for Production Apps**  
+- 🔗 **AI inside MERN & Next.js Applications**
 
 ---
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=10B981&lines=Tools+%26+Deployment" />
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="30" />
 
-- Git & GitHub
-- API testing with Postman
-- Deployment & environment configuration
+- 🔧 **Git & GitHub**  
+- 📦 **API testing with Postman**  
+- 🚀 **Deployment & Environment Configuration**
 
 ---
 
