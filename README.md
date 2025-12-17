@@ -3,51 +3,52 @@
 
 <p align="center">
   <a href="mailto:sriyanshdon2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/MERN-Stack-success?style=flat" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-16a34a?style=flat" />
   <img src="https://img.shields.io/badge/Next.js-Full%20Stack-black?style=flat&logo=next.js" />
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m a **Full Stack Developer** focused on building **scalable, high-performance web applications** using modern technologies.  
-I enjoy working across the entire stack — from **clean frontend UI** to **robust backend systems**.
+I’m a **Full Stack Developer** who builds **scalable, production-ready web applications** using modern JavaScript frameworks.  
+My strength lies in **backend logic, clean architecture, and high-quality UI integration**.
 
 - 🔭 Working on **Bookmark App**
 - 🌱 Learning **Advanced Next.js & Backend Architecture**
-- 🤖 Exploring **AI integration in Web Apps**
-- 💬 Ask me about **MERN Stack, APIs, Backend**
+- 🤖 Exploring **AI-powered Web Applications**
+- 💬 Ask me about **MERN Stack, APIs, Backend Systems**
 - 📫 **Email:** sriyanshdon2005@gmail.com
 
 ---
 
-## 🧠 Technical Expertise
+## Core Skills
 
-### Frontend
-- React.js, Next.js (SSR, SSG)
+### Frontend Development
+- React.js & Next.js (SSR, SSG, App Router)
 - JavaScript (ES6+), HTML5, CSS3
-- Tailwind CSS, Responsive UI
-- Component-driven architecture
+- Tailwind CSS & Responsive Design
+- Component-driven UI architecture
 
-### Backend
-- Node.js, Express.js
-- REST APIs, MVC Architecture
-- Authentication (JWT)
-- Server-side logic & validation
+### Backend Development
+- Node.js & Express.js
+- RESTful APIs & MVC architecture
+- Authentication & Authorization (JWT)
+- Secure & scalable server logic
 
 ### Databases
-- MongoDB, Mongoose
-- Database design & optimization
+- MongoDB & Mongoose
+- Data modeling & indexing
+- Query optimization
 - Basic SQL (MySQL / PostgreSQL)
 
-### Full Stack
-- MERN Stack Development
-- Next.js Full Stack Applications
-- API Integration
-- State Management (Context / Redux basics)
+### Full Stack Expertise
+- MERN Stack Applications
+- Next.js Full Stack Projects
+- API Integration & State Management
+- Production-ready architecture
 
 ### Tools & Deployment
 - Git & GitHub
@@ -57,30 +58,14 @@ I enjoy working across the entire stack — from **clean frontend UI** to **robu
 
 ---
 
-## 📈 GitHub Analytics
+## Philosophy
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebhadra&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebhadra&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</div>
+> *Clean code. Scalable systems. Continuous learning.*
 
 ---
 
-## 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/codebhadra/codebhadra/output/snake.svg" />
-
----
-
-## 👀 Visitors
+## Visitors
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codebhadra.codebhadra" />
 </p>
-
----
-
-### ✨ Philosophy
-> *Write clean code. Build scalable systems. Keep learning.*
-
-⭐ **Star my repos if you find them useful**
