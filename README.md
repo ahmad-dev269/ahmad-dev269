@@ -60,11 +60,14 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9333EA&lines=AI+Integration" />
 
-🤖 Chatbot Development  
-🧠 LLM API Integration  
-⚡ Real-time AI Assistants  
-📝 Prompt engineering for production apps  
-🔗 AI inside MERN & Next.js applications  
+<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="30" />
+
+- 🤖 **Chatbot Development** ![chatbot](https://img.shields.io/badge/Chatbot-OpenAI-9333EA?style=flat&logo=openai&logoColor=white)  
+- 🧠 **LLM API Integration** ![llm](https://img.shields.io/badge/LLM-GPT-FF6B6B?style=flat&logo=openai&logoColor=white)  
+- ⚡ **Real-time AI Assistants** ![assistant](https://img.shields.io/badge/Assistant-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+- 📝 **Prompt Engineering for Production Apps** ![prompt](https://img.shields.io/badge/Prompt-Engineering-F59E0B?style=flat&logo=python&logoColor=white)  
+- 🔗 **AI inside MERN & Next.js applications** ![mern](https://img.shields.io/badge/MERN-Stack-16a34a?style=flat&logo=react&logoColor=white)
+
 
 ---
 
