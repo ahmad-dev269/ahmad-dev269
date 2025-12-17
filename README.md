@@ -20,7 +20,7 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🌱 Learning **Advanced Next.js & Backend Architecture**
 - 🤖 Building **AI-integrated applications & chatbots**
 - 💬 Ask me about **MERN Stack, APIs, AI Integration**
-- 📫 **Email:** sriyanshdon2005@gmail.com
+- 📫 **Email:** muhammad.ahmad.p171@gmail.com
 
 ---
 
