@@ -26,41 +26,76 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 ## Core Skills
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="30" />
+<table>
+<tr>
+<td>
 
 - ⚛️ **React.js & Next.js** (SSR, SSG, App Router)  
 - 🎨 **Responsive UI** & component-driven architecture  
 - 💅 **Modern CSS with Tailwind**
 
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="50"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
+<table>
+<tr>
+<td>
 
 - 🔧 **Node.js & Express.js**  
 - 🌐 **RESTful API development**  
 - 🔒 **Authentication & authorization** (JWT)  
 - ⚡ **Secure & scalable server logic**
 
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F59E0B&lines=Databases" />
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="30" />
+<table>
+<tr>
+<td>
 
 - 🗄️ **MongoDB & Mongoose**  
 - 🏗️ **Schema design & indexing**  
 - ⚡ **Query optimization**  
 - 🛠️ **Basic SQL databases**
 
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9333EA&lines=AI+Integration" />
+### AI Integration
 
-<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="30" />
+<table>
+<tr>
+<td>
 
 - 🤖 **Chatbot Development**  
 - 🧠 **LLM API Integration**  
@@ -68,15 +103,35 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 📝 **Prompt Engineering for Production Apps**  
 - 🔗 **AI inside MERN & Next.js Applications**
 
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="50"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=10B981&lines=Tools+%26+Deployment" />
+### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="30" />
+<table>
+<tr>
+<td>
 
 - 🔧 **Git & GitHub**  
 - 📦 **API testing with Postman**  
 - 🚀 **Deployment & Environment Configuration**
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="50"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
