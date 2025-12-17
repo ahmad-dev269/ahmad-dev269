@@ -37,9 +37,9 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 💅 **Modern CSS with Tailwind**
 
 </td>
-<td align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="50"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="60" style="margin-left:20px"/>
 
 </td>
 </tr>
@@ -59,9 +59,9 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - ⚡ **Secure & scalable server logic**
 
 </td>
-<td align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="60" style="margin-left:20px"/>
 
 </td>
 </tr>
@@ -81,9 +81,9 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🛠️ **Basic SQL databases**
 
 </td>
-<td align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="60" style="margin-left:20px"/>
 
 </td>
 </tr>
@@ -104,9 +104,9 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🔗 **AI inside MERN & Next.js Applications**
 
 </td>
-<td align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="50"/>
+<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="60" style="margin-left:20px"/>
 
 </td>
 </tr>
@@ -125,9 +125,9 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🚀 **Deployment & Environment Configuration**
 
 </td>
-<td align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="60" style="margin-left:20px"/>
 
 </td>
 </tr>
