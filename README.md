@@ -105,6 +105,3 @@
 ---
 <img src="https://raw.githubusercontent.com/codebhadra/codebhadra/output/snake.svg" alt="Snake animation" />
 <!-- FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=150&section=footer&animation=fadeIn"/>
-</p>
