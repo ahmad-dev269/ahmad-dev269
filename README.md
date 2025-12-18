@@ -25,6 +25,7 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 ---
 
 ## Core Skills
+
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" />
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
@@ -37,6 +38,7 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 ---
 
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" />
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
 
@@ -49,6 +51,8 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 
 ---
 
+<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="45" />
+
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F59E0B&lines=Databases" />
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="30" />
@@ -59,6 +63,8 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🛠️ **Basic SQL databases**
 
 ---
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="45" />
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9333EA&lines=AI+Integration" />
 
@@ -71,6 +77,8 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🔗 **AI inside MERN & Next.js Applications**
 
 ---
+
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45" />
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=10B981&lines=Tools+%26+Deployment" />
 
