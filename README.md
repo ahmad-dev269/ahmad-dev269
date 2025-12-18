@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Ahmed</h1>
+<h1 align="center">Muhammad Ahmad</h1>
 <h3 align="center">Full Stack Developer · MERN Stack · Next.js · AI Integration</h3>
 
 <p align="center">
