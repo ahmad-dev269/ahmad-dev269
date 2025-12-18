@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Ahmad</h1>
+<h1 align="center">Muhammad Ahmed</h1>
 <h3 align="center">Full Stack Developer · MERN Stack · Next.js · AI Integration</h3>
 
 <p align="center">
@@ -20,82 +20,47 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 🌱 Learning **Advanced Next.js & Backend Architecture**
 - 🤖 Building **AI-integrated applications & chatbots**
 - 💬 Ask me about **MERN Stack, APIs, AI Integration**
-- 📫 **Email:** muhammad.ahmad.p171@gmail.com
+- 📫 **Email:** sriyanshdon2005@gmail.com
 
 ---
 
 ## Core Skills
 
-### Frontend Development
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="30" />
 
 - ⚛️ **React.js & Next.js** (SSR, SSG, App Router)  
 - 🎨 **Responsive UI** & component-driven architecture  
 - 💅 **Modern CSS with Tailwind**
 
-</td>
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="60" style="margin-left:20px"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### Backend Development
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
 
 - 🔧 **Node.js & Express.js**  
 - 🌐 **RESTful API development**  
 - 🔒 **Authentication & authorization** (JWT)  
 - ⚡ **Secure & scalable server logic**
 
-</td>
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="60" style="margin-left:20px"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### Databases
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F59E0B&lines=Databases" />
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="30" />
 
 - 🗄️ **MongoDB & Mongoose**  
 - 🏗️ **Schema design & indexing**  
 - ⚡ **Query optimization**  
 - 🛠️ **Basic SQL databases**
 
-</td>
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="60" style="margin-left:20px"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### AI Integration
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=9333EA&lines=AI+Integration" />
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="30" />
 
 - 🤖 **Chatbot Development**  
 - 🧠 **LLM API Integration**  
@@ -103,35 +68,15 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 📝 **Prompt Engineering for Production Apps**  
 - 🔗 **AI inside MERN & Next.js Applications**
 
-</td>
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=openai,python,tensorflow,pytorch" height="60" style="margin-left:20px"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-### Tools & Deployment
+### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=10B981&lines=Tools+%26+Deployment" />
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="30" />
 
 - 🔧 **Git & GitHub**  
 - 📦 **API testing with Postman**  
 - 🚀 **Deployment & Environment Configuration**
-
-</td>
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" height="60" style="margin-left:20px"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
