@@ -25,6 +25,7 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 ---
 
 ## Core Skills
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" />
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=22C55E&lines=Frontend+Development" />
 
@@ -35,6 +36,7 @@ I work across the full stack — from **clean frontend UI** to **robust backend 
 - 💅 **Modern CSS with Tailwind**
 
 ---
+
 
 ### <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&lines=Backend+Development" />
 
