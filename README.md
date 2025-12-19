@@ -1,6 +1,6 @@
 <!-- TOP ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Muhammad%20Ahmdd&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Muhammad%20Ahmad&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h3 align="center">
